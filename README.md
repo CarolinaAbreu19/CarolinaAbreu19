@@ -15,12 +15,12 @@
 # Minhas skills e contato
 
 <div style="display: inline_block" align="center"><br>
-  <a href="#"><img align="center" title="React.js" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="#"><img align="center" title="Node.js" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-  <a href="#"><img align="center" title="PostgreSQL" alt="Carol-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="#"><img align="center" title="Javascript" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="#"><img align="center" title="HTML5" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="#"><img align="center" title="CSS3" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
+  <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" title="React.js" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://nodejs.org/en/about/" target="_blank"><img align="center" title="Node.js" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" title="PostgreSQL" alt="Carol-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" title="Javascript" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" title="HTML5" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" title="CSS3" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
 </div><br>
 
 <div align="center">
