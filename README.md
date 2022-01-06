@@ -3,12 +3,13 @@
 ### Oie! Sou Carolina Abreu 👋
 
 - 💻 Sou uma desenvolvedora full stack júnior. Tenho mais experiência com front-end
-- 📊 Sou bolsista de Engenharia de Software no Polo de Inovação Fortaleza e estagiária de desenvolvimento front-end na Bleez Serviços Digitais
+- 📊 Sou bolsista de Engenharia de Software no Polo de Inovação Fortaleza e estou participando da etapa de treinamento do programa Trainee 2022 da Pitang
 - 🔭 Atualmente estou concentrada na minha graduação! No primeiro semestre de 2022 serei formada em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 - 🌱 Estou evoluindo meus conhecimentos em PostgreSQL, React.js e Node.js
-- 📱 Também estou aprendendo Flutter. Mal posso esperar para desenvolver meus primeiros aplicativos!
+- ✔️ As tecnologias que domino são HTML, CSS e Javascript
+- 📱 Sei o básico sobre os frameworks Flutter e React Native. Estou buscando evoluir meu aprendizado!
 - 💬 Resiliência, adaptabilidade e resolução de conflitos são minhas principais softskills
-- 💗 Adoro falar sobre receitas, Javascript e jogos de RPG (especialmente Pokemon)
+- 💗 Adoro falar sobre receitas, animais fofos e jogos de RPG (especialmente Pokemon)
 - 😄 Pronomes: ela/dela
 - ⚡ Fato engraçado: eu costumava ser uma procrastinadora profissional, mas consegui superar isso utilizando o aplicativo [Habitica](https://habitica.com/) e o método Pomodoro. Agora meus dias são altamente produtivos!
 
