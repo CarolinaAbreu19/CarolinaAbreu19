@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Carolina Abreu ᕕ( ᐛ )ᕗ
 
-- 💻 I'm a Full Stack Junior Web Developer. I have more experience with frontend
+- 💻 I'm a Junior Full Stack Web Developer. I have more experience with frontend
 - ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
 - 🔭 I'm evolving my knowledge in PostgreSQL, React.js and Node.js. I also started studying Docker and my plans include to learn even more about Magento.
 - 📱 I know the basics of Flutter and React Native frameworks. I'm looking to improve my learning!
