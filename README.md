@@ -4,7 +4,7 @@
 
 - 💻 I'm a Junior Full Stack Web Developer. I have more experience with frontend
 - ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
-- 🔭 I'm evolving my knowledge in PostgreSQL, React.js and Node.js. I also started studying Docker and my plans include to learn even more about Magento.
+- 🔭 I'm evolving my knowledge in PostgreSQL, ReactJS and Node.js. I also started studying Docker and my plans include to learn even more about Magento.
 - 📱 I know the basics of Flutter and React Native frameworks. I'm looking to improve my learning!
 - 📊 I'm working on a schoolarship of Software Engineering at Polo de Inovação Fortaleza and I'm participating in the training stage of Pitang's Trainee program 2022
 - 🎓 I'm currently concentrating on my graduation! In the first semester of 2022 I will be graduated in Computer Science from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
@@ -16,7 +16,7 @@
 
 - 💻 Sou uma desenvolvedora full stack júnior. Tenho mais experiência com frontend
 - ✔️ As tecnologias que tenho mais habilidade são HTML, CSS e Javascript
-- 🔭 Estou evoluindo meus conhecimentos em PostgreSQL, React.js e Node.js. Também comecei a estudar Docker e planejo aprender ainda mais sobre Magento.
+- 🔭 Estou evoluindo meus conhecimentos em PostgreSQL, ReactJS e Node.js. Também comecei a estudar Docker e planejo aprender ainda mais sobre Magento.
 - 📱 Sei o básico sobre os frameworks Flutter e React Native. Estou buscando evoluir meu aprendizado!
 - 📊 Sou bolsista de Engenharia de Software no Polo de Inovação Fortaleza e estou participando da etapa de treinamento do programa Trainee 2022 da Pitang
 - 🎓 Atualmente estou concentrada na minha graduação! No primeiro semestre de 2022 serei formada em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
@@ -27,7 +27,7 @@
 # My skills and contact | Minhas skills e contato
 
 <div style="display: inline_block" align="center"><br>
-  <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" title="React.js" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" title="ReactJS" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://nodejs.org/en/about/" target="_blank"><img align="center" title="Node.js" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" title="PostgreSQL" alt="Carol-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" title="Javascript" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
