@@ -6,7 +6,7 @@
 - ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
 - 🔭 I'm evolving my knowledge in PostgreSQL, React.js and Node.js. I also started studying Docker and my plans include to learn even more about Magento.
 - 📱 I know the basics of Flutter and React Native frameworks. I'm looking to improve my learning!
-- 📊 I'm working on a schoolarship of Software Engineering at Polo de Inovação Fortaleza and I'm participating in the training stage of Pitang's Trainee 2022 program
+- 📊 I'm working on a schoolarship of Software Engineering at Polo de Inovação Fortaleza and I'm participating in the training stage of Pitang's Trainee program 2022
 - 🎓 I'm currently concentrating on my graduation! In the first semester of 2022 I will be graduated in Computer Science from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
 - 💬 Resilience, adaptability and conflict resolution are my main softskills
 - 💗 I love talking about recipes, cute animals and roleplaying games (especially Pokemon)
