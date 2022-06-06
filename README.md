@@ -2,27 +2,21 @@
 
 ### Hi there! I'm Carolina Abreu ᕕ( ᐛ )ᕗ
 
-- 💻 I'm a Junior Full Stack Web Developer. I have more experience with frontend
-- ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
-- 🔭 I'm evolving my knowledge in PostgreSQL, ReactJS and Node.js. I also started studying Docker and my plans include to learn even more about Magento.
-- 📱 I know the basics of Flutter and React Native frameworks. I'm looking to improve my learning!
-- 📊 I'm working on a schoolarship of Software Engineering at Polo de Inovação Fortaleza and I'm participating in the training stage of Pitang's Trainee program 2022
-- 🎓 I'm currently concentrating on my graduation! In the first semester of 2022 I will be graduated in Computer Science from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
+- 💻 I'm a Junior Full Stack Web Developer
+- ✔️ The technologies I'm most skilled at are HTML, CSS, Javascript, Node.js and ReactJS
+- 📊 I'm an IT consultant Trainee at Pitang Consultoria e Sistemas. I love my new job!
+- 🎓 I'm also a Computer Scientist graduated from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
 - 💬 Resilience, adaptability and conflict resolution are my main softskills
 - 💗 I love talking about recipes, cute animals and roleplaying games (especially Pokemon)
-- 😄 Pronouns: she/her
 
 ---
 
-- 💻 Sou uma desenvolvedora full stack júnior. Tenho mais experiência com frontend
-- ✔️ As tecnologias que tenho mais habilidade são HTML, CSS e Javascript
-- 🔭 Estou evoluindo meus conhecimentos em PostgreSQL, ReactJS e Node.js. Também comecei a estudar Docker e planejo aprender ainda mais sobre Magento.
-- 📱 Sei o básico sobre os frameworks Flutter e React Native. Estou buscando evoluir meu aprendizado!
-- 📊 Sou bolsista de Engenharia de Software no Polo de Inovação Fortaleza e estou participando da etapa de treinamento do programa Trainee 2022 da Pitang
-- 🎓 Atualmente estou concentrada na minha graduação! No primeiro semestre de 2022 serei formada em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+- 💻 Sou uma desenvolvedora full stack júnior
+- ✔️ As tecnologias que tenho mais habilidade são HTML, CSS, Javascript, Node.js e ReactJS
+- 📊 Atualmente sou Consultora de TI Trainee na Pitang Consultoria e Sistemas. Estou amando meu novo emprego!
+- 🎓 Sou formada em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 - 💬 Resiliência, adaptabilidade e resolução de conflitos são minhas principais softskills
 - 💗 Adoro falar sobre receitas, animais fofos e jogos de RPG (especialmente Pokemon)
-- 😄 Pronomes: ela/dela
 
 # My skills and contact | Minhas skills e contato
 
