@@ -3,22 +3,13 @@
 ### Hi there! I'm Carolina Abreu ᕕ( ᐛ )ᕗ
 
 - 💻 I'm a Junior Full Stack Web Developer
-- ✔️ The technologies I'm most skilled at are HTML, CSS, Javascript, Node.js and ReactJS
-- 📊 I'm an IT consultant Trainee at Pitang Consultoria e Sistemas. I love my new job!
+- ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
+- 📊 I'm an Junior IT consultant at Pitang Consultoria e Sistemas. I love my new job!
 - 🎓 I'm also a Computer Scientist graduated from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
 - 💬 Resilience, adaptability and conflict resolution are my main softskills
 - 💗 I love talking about recipes, cute animals and roleplaying games (especially Pokemon)
 
----
-
-- 💻 Sou uma desenvolvedora full stack júnior
-- ✔️ As tecnologias que tenho mais habilidade são HTML, CSS, Javascript, Node.js e ReactJS
-- 📊 Atualmente sou Consultora de TI Trainee na Pitang Consultoria e Sistemas. Estou amando meu novo emprego!
-- 🎓 Sou formada em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
-- 💬 Resiliência, adaptabilidade e resolução de conflitos são minhas principais softskills
-- 💗 Adoro falar sobre receitas, animais fofos e jogos de RPG (especialmente Pokemon)
-
-# My skills and contact | Minhas skills e contato
+# My skills and contact
 
 <div style="display: inline_block" align="center"><br>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" title="ReactJS" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
