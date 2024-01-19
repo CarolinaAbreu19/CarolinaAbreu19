@@ -4,10 +4,10 @@
 
 - 💻 I'm a Junior Full Stack Web Developer
 - ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
-- 📊 I'm an Junior IT consultant at Pitang Consultoria e Sistemas. I love my new job!
+- 📊 I'm an Junior IT consultant at Pitang Consultoria e Sistemas
 - 🎓 I'm also a Computer Scientist graduated from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
 - 💬 Resilience, adaptability and conflict resolution are my main softskills
-- 💗 I love talking about recipes, cute animals and roleplaying games (especially Pokemon)
+- 💗 I love talking about culinary, karate and roleplaying games (especially Pokemon)
 
 # My skills and contact
 
