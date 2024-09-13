@@ -3,7 +3,7 @@
 ### Hi there! I'm Carolina Abreu ᕕ( ᐛ )ᕗ
 
 - 💻 I'm a Junior Full Stack Web Developer
-- ✔️ The technologies I'm most skilled at are HTML, CSS and Javascript
+- ✔️ The technologies I'm working at the moment are Angular and C#
 - 📊 I'm an Junior IT consultant at Pitang Consultoria e Sistemas
 - 🎓 I'm also a Computer Scientist graduated from the Federal Institute of Education, Science and Technology of Ceará (IFCE)
 - 💬 Resilience, adaptability and conflict resolution are my main softskills
